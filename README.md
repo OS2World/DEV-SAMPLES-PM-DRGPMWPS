@@ -1,0 +1,4 @@
+DEV-SAMPLES-PM-DRGPMWPS
+=======================
+
+DRGPMWPS is a sample program that demonstrates a mechanism for allowing OS/2 Drag/Drop facilities (aka Direct Manipulation) to work between a normal PM window and the WorkPlace Shell.
